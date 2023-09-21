@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "platforms": ["ios", "android", "web"],
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0,
+      "checkAutomatically": "ON_LOAD",
+      "useClassicUpdates": true
+    }
+  }
+}
